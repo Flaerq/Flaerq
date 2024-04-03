@@ -18,26 +18,41 @@ Feel free to reach out to me via email at [your@email.com](mailto:your@email.com
 
 Here are some of the technologies I have experience with:
 
-```diff
-+ Programming Languages:
-  + Java
-  + JavaScript
-  + Python
-  + HTML/CSS
+## Tech Stack
 
-+ Frameworks/Libraries:
-  + Spring Boot
-  + React.js
-  + Node.js
-  + Flask
+Here are some of the technologies I have experience with:
 
-+ Databases:
-  + MySQL
-  + PostgreSQL
-  + MongoDB
+<div style="background-color:#f0db4f; padding: 10px; margin-bottom: 5px;">Programming Languages:
+  <ul>
+    <li>Java</li>
+    <li>JavaScript</li>
+    <li>Python</li>
+    <li>HTML/CSS</li>
+  </ul>
+</div>
 
-+ Tools/Platforms:
-  + Git/GitHub
-  + Docker
-  + AWS (Amazon Web Services)
-  + Heroku
+<div style="background-color:#61dafb; padding: 10px; margin-bottom: 5px;">Frameworks/Libraries:
+  <ul>
+    <li>Spring Boot</li>
+    <li>React.js</li>
+    <li>Node.js</li>
+    <li>Flask</li>
+  </ul>
+</div>
+
+<div style="background-color:#ff69b4; padding: 10px; margin-bottom: 5px;">Databases:
+  <ul>
+    <li>MySQL</li>
+    <li>PostgreSQL</li>
+    <li>MongoDB</li>
+  </ul>
+</div>
+
+<div style="background-color:#563d7c; padding: 10px; margin-bottom: 5px;">Tools/Platforms:
+  <ul>
+    <li>Git/GitHub</li>
+    <li>Docker</li>
+    <li>AWS (Amazon Web Services)</li>
+    <li>Heroku</li>
+  </ul>
+</div>
