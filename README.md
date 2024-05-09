@@ -74,6 +74,8 @@
 ![Test](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![Test](https://img.shields.io/badge/s3-%23569A31.svg?&style=for-the-badge&logo=amazon%20s3&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=Kibana&logoColor=white)
+![Logstash]()
 
 <br/>
 
